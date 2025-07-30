@@ -127,7 +127,7 @@ Measured by **BLEU Score**:
 
 ---
 
-## 🔍 Conclusion
+## Conclusion
 
 Prompt style **does influence** LLM performance, but its effect **varies by task**. From the tasks examined:
 
@@ -135,10 +135,4 @@ Prompt style **does influence** LLM performance, but its effect **varies by task
 - No single prompt style guarantees optimal performance across all tasks.
 - It's best to **experiment with multiple styles** based on task complexity and expected output.
 
----
 
-## 📎 License
-
-MIT License
-
----

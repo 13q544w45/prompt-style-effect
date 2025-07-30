@@ -1,0 +1,8 @@
+Q: What is the capital of France?
+A: Paris
+
+Q: Who wrote the play 'Hamlet'?
+A: William Shakespeare
+
+Q: What is the boiling point of water in Celsius?
+A: 100

@@ -1,0 +1,14 @@
+Instruction: Answer the question based only on your general knowledge.
+
+Q: What is the capital of France?
+A: France is a country in Europe. Its capital city is where the national government is located and is well-known internationally. Paris is the most famous and populous city in France, and it serves as the capital. The answer is Paris.
+
+Instruction: Answer the question using only facts you know.
+
+Q: Who wrote the play 'Hamlet'?
+A: 'Hamlet' is one of the most famous tragedies in English literature. It was written during the Elizabethan era. The play is widely attributed to William Shakespeare, who authored many well-known dramas. The answer is William Shakespeare.
+
+Instruction: Provide the correct answer based on general world knowledge.
+
+Q: What is the boiling point of water in Celsius?
+A: The boiling point of water depends on atmospheric pressure, but under normal conditions at sea level, water boils at 100 degrees Celsius. This is a standard scientific fact. The answer is 100.

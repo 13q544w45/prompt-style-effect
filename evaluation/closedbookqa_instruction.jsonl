@@ -1,0 +1,101 @@
+{"id": 0, "question": "What was the fist name of Hudson in Upstairs Downstairs?", "truth": "angus", "gpt3_answer": "richard", "correct": false}
+{"id": 1, "question": "Which is the highest position in the Metropolitan Police?", "truth": "commissioner", "gpt3_answer": "commissioner", "correct": true}
+{"id": 2, "question": "What nationality was the painter Vincent Van Gogh?", "truth": "dutch", "gpt3_answer": "dutch", "correct": true}
+{"id": 3, "question": "\"In the 19th century, the term \"\"penny dreadful\"\" applied to what item?\"", "truth": "book", "gpt3_answer": "cheap, sensationalist fiction publications", "correct": false}
+{"id": 4, "question": "Which US TV series is set in the Princeton-Plainsboro Teaching Hospital?", "truth": "house", "gpt3_answer": "house", "correct": true}
+{"id": 5, "question": "Who was the first reigning British monarch to make an official visit to the USA?", "truth": "george the sixth", "gpt3_answer": "queen elizabeth ii", "correct": false}
+{"id": 6, "question": "Which European country has the world’s oldest national flag?", "truth": "denmark", "gpt3_answer": "denmark", "correct": true}
+{"id": 7, "question": "The badge/logo of which car is a circle with a three-pointed star in the centre?", "truth": "mercedes-benz", "gpt3_answer": "mercedes-benz", "correct": true}
+{"id": 8, "question": "Which boxing champion had the nickname 'Hit-Man'?", "truth": "thomas hearns", "gpt3_answer": "tommy hearns", "correct": false}
+{"id": 9, "question": "The cup, or bowl, Jesus was said to have used at the Last Supper is known as ‘The Holy ‘what’?", "truth": "grail", "gpt3_answer": "grail", "correct": true}
+{"id": 10, "question": "In which country is the volcano Mount Meager?", "truth": "canada", "gpt3_answer": "canada", "correct": true}
+{"id": 11, "question": "Esztergom was once the capital of which country?", "truth": "hungary", "gpt3_answer": "hungary", "correct": true}
+{"id": 12, "question": "Which notorious murderer lived at 10 Rillington Place?", "truth": "john christie", "gpt3_answer": "john christie", "correct": true}
+{"id": 13, "question": "How many times was Wyatt Earp shot?", "truth": "none", "gpt3_answer": "wyatt earp was shot once.", "correct": false}
+{"id": 14, "question": "Rower Alex Partridge and hockey player Hannah Macleod had what stolen from a nightclub in October 2012?", "truth": "olympic bronze medals", "gpt3_answer": "their olympic bronze medals", "correct": false}
+{"id": 15, "question": "The highest grossing hand-drawn animated film in history is?", "truth": "the lion king", "gpt3_answer": "the lion king", "correct": true}
+{"id": 16, "question": "Whose second 'breadfruit voyage' as captain was on the ship HMS Providence, 1791-94?", "truth": "william bligh", "gpt3_answer": "william bligh", "correct": true}
+{"id": 17, "question": "What is the more common term for the affliction called epistaxis the occurrence of which suggests sexual arousal in Japanese manga and anime?", "truth": "nosebleed", "gpt3_answer": "nosebleed", "correct": true}
+{"id": 18, "question": "The Arsacid Dynasty ruled which country from 250 B.C. until 224 A.D.", "truth": "persia", "gpt3_answer": "persia", "correct": true}
+{"id": 19, "question": "Fruit, cricket and horseshoe are varieties of what type of animal?", "truth": "bat", "gpt3_answer": "insects", "correct": false}
+{"id": 20, "question": "The traditional gift for a ninth anniversary should be made from which material?", "truth": "pottery", "gpt3_answer": "pottery", "correct": true}
+{"id": 21, "question": "Name the earliest (post-gamete) developmental stage of the human embryo?", "truth": "zygote", "gpt3_answer": "blastocyst", "correct": false}
+{"id": 22, "question": "According to Arthurian legend, Arthur's wife Guinevere, had a little on the side with which Knight of the Round Table?", "truth": "lancelot", "gpt3_answer": "lancelot", "correct": true}
+{"id": 23, "question": "Which American actor was born Spangler Arlington Brough?", "truth": "robert taylor", "gpt3_answer": "charlton heston", "correct": false}
+{"id": 24, "question": "Who is the oldest person to have a number one hit in Britain?", "truth": "louis armstrong", "gpt3_answer": "tom jones", "correct": false}
+{"id": 25, "question": "The English-Greek prefix 'peri' means?", "truth": "round/about", "gpt3_answer": "around or about", "correct": false}
+{"id": 26, "question": "Which American played in his 10th Ryder Cup in 2014?", "truth": "phil mickelson", "gpt3_answer": "phil mickelson", "correct": true}
+{"id": 27, "question": "The largest region in New Zealand is Canterbury. Which city is the seat of government?", "truth": "christchurch", "gpt3_answer": "wellington", "correct": false}
+{"id": 28, "question": "What should you cross for good luck?", "truth": "fingers", "gpt3_answer": "your fingers", "correct": false}
+{"id": 29, "question": "Beloved in 1999 was whose first movie since The Color Purple in 1985?", "truth": "oprah winfrey", "gpt3_answer": "oprah winfrey", "correct": true}
+{"id": 30, "question": "Having a height of 3,478 metres, Mount Mulhacen is the highest mainland point of which country?", "truth": "spain", "gpt3_answer": "spain", "correct": true}
+{"id": 31, "question": "By what name was the artist Jacopo Comin (or Jacopo Robusti) better known?", "truth": "tintoretto", "gpt3_answer": "tintoretto", "correct": true}
+{"id": 32, "question": "What was once the most abundant bird in North America but was driven to extinction in 1914?", "truth": "passenger pigeon", "gpt3_answer": "the passenger pigeon", "correct": false}
+{"id": 33, "question": "What type of building is likely to have a minaret?", "truth": "mosque", "gpt3_answer": "a mosque", "correct": false}
+{"id": 34, "question": "In which English city will you find the Ashmolean museum?", "truth": "oxford", "gpt3_answer": "oxford", "correct": true}
+{"id": 35, "question": "What dog breed has Queen Elizabeth II traditionally had as pets?", "truth": "corgi", "gpt3_answer": "corgis", "correct": false}
+{"id": 36, "question": "Historically, what type of wood was used to make black piano keys?", "truth": "ebony", "gpt3_answer": "ebony", "correct": true}
+{"id": 37, "question": "During which decade of the 19th Century was the British clipper ship the Cutty Sark launched?", "truth": "1860’s (1869)", "gpt3_answer": "1860s", "correct": false}
+{"id": 38, "question": "‘La Marcha Real’ (The Royal march) is the national anthem of which country?", "truth": "spain", "gpt3_answer": "spain", "correct": true}
+{"id": 39, "question": "What type of fruit is a Blenheim Orange?", "truth": "apple", "gpt3_answer": "apple", "correct": true}
+{"id": 40, "question": "In the US television show ‘The Sopranos’, which country permanently banned Janice Soprano from entering after putting her on an Unwanted Persons list?", "truth": "canada", "gpt3_answer": "italy", "correct": false}
+{"id": 41, "question": "LOT is the national airline of which country?", "truth": "poland", "gpt3_answer": "poland", "correct": true}
+{"id": 42, "question": "Name the theatre manager / impresario, who collaborated with Messrs Gilbert and Sullivan, at the Savoy Theatre?", "truth": "richard d'oyly carte", "gpt3_answer": "richard d'oyly carte", "correct": true}
+{"id": 43, "question": "What was the fate of Jezebel in the Bible", "truth": "she was eaten by dogs", "gpt3_answer": "she was thrown out of a window and eaten by dogs.", "correct": false}
+{"id": 44, "question": "What satellite, launched by NASA aboard a Delta rocket from Cape Canaveral on 10 July 1962, was built as part of a multi-national agreement between AT&T;, Bell Telephone Laboratories, NASA, the British General Post Office, and the French National PTT (Post, Telegraph & Telecom Office)?", "truth": "telstar", "gpt3_answer": "telstar", "correct": true}
+{"id": 45, "question": "What was founded by Ferdinand II of Aragon and Isabella I of Castile to keep Catholic orthodoxy as the major religion of their kingdoms?", "truth": "spanish inquisition", "gpt3_answer": "the spanish inquisition", "correct": false}
+{"id": 46, "question": "Give a year in the life of abstract painter Wassily Kandinsky.", "truth": "1866-1944", "gpt3_answer": "1866-1944", "correct": true}
+{"id": 47, "question": "Which motor company owns the truck maker, Scania?", "truth": "saab", "gpt3_answer": "volkswagen", "correct": false}
+{"id": 48, "question": "What was placed in Earth’s orbit by Discovery in 1990?", "truth": "hubble telescope", "gpt3_answer": "the hubble space telescope", "correct": false}
+{"id": 49, "question": "With which instrument do you associate British jazz musician Stan Tracey?", "truth": "piano", "gpt3_answer": "piano", "correct": true}
+{"id": 50, "question": "The Gilles Villeneuve Formula One racing circuit is in which country?", "truth": "canada", "gpt3_answer": "canada", "correct": true}
+{"id": 51, "question": "Who is the father-in-law of Manchester City footballer Sergio Kűn Aguerro?", "truth": "diego maradona", "gpt3_answer": "diego maradona", "correct": true}
+{"id": 52, "question": "What is an alternative name for members of the Church of Jesus Christ of Latter Day Saints?", "truth": "mormons", "gpt3_answer": "mormons", "correct": true}
+{"id": 53, "question": "Can you name the singer of the title track in '1995 - GoldenEye'?", "truth": "tina turner", "gpt3_answer": "tina turner", "correct": true}
+{"id": 54, "question": "What was the Beatles first film", "truth": "a hard day's night", "gpt3_answer": "a hard day's night", "correct": true}
+{"id": 55, "question": "Which play set in Lancashire in the 1850's tells of boot maker Will Mossop's romance with his boss's daughter?", "truth": "hobson's choice", "gpt3_answer": "hobson's choice", "correct": true}
+{"id": 56, "question": "Who was the Principal Conductor of the Halle Orchestra from 1943 to 1970?", "truth": "sir john barbirolli", "gpt3_answer": "sir john barbirolli", "correct": true}
+{"id": 57, "question": "What is said to be the UK's loudest bird?", "truth": "bittern", "gpt3_answer": "the cuckoo", "correct": false}
+{"id": 58, "question": "What type of camel has two humps?", "truth": "bactrian", "gpt3_answer": "bactrian camel", "correct": false}
+{"id": 59, "question": "What were the first names of all 3 Liverbirds?", "truth": "sandra, beryl, carol", "gpt3_answer": "pauline, sheila, and cilla", "correct": false}
+{"id": 60, "question": "What controversial phenomenon is measured by Zener cards?", "truth": "esp", "gpt3_answer": "extrasensory perception (esp)", "correct": false}
+{"id": 61, "question": "What trophy is played for at the US Superbowl?", "truth": "the lombardi trophy", "gpt3_answer": "the vince lombardi trophy", "correct": false}
+{"id": 62, "question": "Who hosted the 2006 Academy Awards ceremony?", "truth": "jon stewart", "gpt3_answer": "jon stewart", "correct": true}
+{"id": 63, "question": "Which two American 400 metre runners were banned for life from the Olympics after being disrespectful when collecting their medals at the 1972 Summer Olympics?", "truth": "vincent matthews and wayne collett", "gpt3_answer": "tommie smith and john carlos", "correct": false}
+{"id": 64, "question": "Who wept on the shoulder of the Duchess of Kent after losing the Wimbledon Women's Singles Final against Steffi Graf in 1993?", "truth": "jana novotna", "gpt3_answer": "jana novotná", "correct": false}
+{"id": 65, "question": "What is the name of the official British coronation crown?", "truth": "st edward’s crown", "gpt3_answer": "the imperial state crown", "correct": false}
+{"id": 66, "question": "Which large American bird (Gymnogyps) has been reintroduced to the wild after breeding in captivity in 1991?", "truth": "(california) condor", "gpt3_answer": "california condor", "correct": false}
+{"id": 67, "question": "\"On 2 November 2010, the oil painting \"\"Nude Sitting on a Divan\"\" sold for $68.9 million, a record for an artwork by which artist?\"", "truth": "amadeo modigliani", "gpt3_answer": "amedeo modigliani", "correct": false}
+{"id": 68, "question": "Located in a country of the same name which is African's second highest mountain?", "truth": "mt kenya", "gpt3_answer": "mount kenya", "correct": false}
+{"id": 69, "question": "Which African country is the worlds highest producer of cocoa?", "truth": "ghana", "gpt3_answer": "ivory coast", "correct": false}
+{"id": 70, "question": "On which river does Newport (Gwent) stand?", "truth": "usk", "gpt3_answer": "river usk", "correct": false}
+{"id": 71, "question": "What district of Liverpool has the surname of a famous 20th century singer and film star ?", "truth": "crosby", "gpt3_answer": "penny lane", "correct": false}
+{"id": 72, "question": "What does the term 'Halal' literally mean? As in Halal meat eaten by Muslims.", "truth": "permissible", "gpt3_answer": "permissible or allowed", "correct": false}
+{"id": 73, "question": "Which South American country's flag has nine alternating horizontal bands of blue and white with a gold sun in a white canton?", "truth": "uruguay", "gpt3_answer": "argentina", "correct": false}
+{"id": 74, "question": "The 2014 'Bendgate' controversy/publicity concerned version 6 of which famous product?", "truth": "apple iphone 6", "gpt3_answer": "iphone", "correct": false}
+{"id": 75, "question": "Where is the Foaming Sea?", "truth": "on the moon", "gpt3_answer": "the foaming sea is a term used to describe rough or turbulent waters, so it does not refer to a specific location.", "correct": false}
+{"id": 76, "question": "Who's missing: Bashful, Doc, Dopey, Grumpy, Happy, Sleepy", "truth": "sneezy", "gpt3_answer": "sneezy", "correct": true}
+{"id": 77, "question": "How many balls are on a snooker table at the beginning of a game?", "truth": "22", "gpt3_answer": "22", "correct": true}
+{"id": 78, "question": "If you have polythelia what have you got", "truth": "three nipples", "gpt3_answer": "extra nipples", "correct": false}
+{"id": 79, "question": "Mrs. Bridges was the cook in which popular TV series?", "truth": "upstairs downstairs", "gpt3_answer": "upstairs, downstairs", "correct": false}
+{"id": 80, "question": "Which Germna military leader had the nickname 'The Blue Max'? He commited suicide on October 15th 1846 by swallowing potassium cyanide after being found guilty of war crimes at the Nuremberg War Crimes Trial.", "truth": "hermaan goering", "gpt3_answer": "hermann göring", "correct": false}
+{"id": 81, "question": "\"Which American President used the slogan: \"\"It's the economy, stupid\"\" for his presidential campaign?\"", "truth": "bill clinton", "gpt3_answer": "bill clinton", "correct": true}
+{"id": 82, "question": "Who, after marrying in 1791, and living in Naples, became the mistress of Lord Nelson, having his child, Horatia, in 1803?", "truth": "lady emma hamilton", "gpt3_answer": "emma hamilton", "correct": false}
+{"id": 83, "question": "If a right angled triangle has two sides measuring 9 and 12 inches how many inches long is the third and longest side ?", "truth": "15", "gpt3_answer": "15 inches", "correct": false}
+{"id": 84, "question": "What is the more familiar name for the aromatic gum resin olibanum?", "truth": "frankincense", "gpt3_answer": "frankincense", "correct": true}
+{"id": 85, "question": "When suffix letters were first used on British car registration plates the letter was used for a calendar year, later, to suit the car industry, the letter changed on August 1 each year, which letter was consequently used for only seven months?", "truth": "e", "gpt3_answer": "the letter \"i\" was used for only seven months.", "correct": false}
+{"id": 86, "question": "Ivan the Terrible was a czar of what country?", "truth": "russia", "gpt3_answer": "russia", "correct": true}
+{"id": 87, "question": "Named after a town in Lincolnshire, what is a more common name for bath metal?", "truth": "pinchbeck", "gpt3_answer": "pewter", "correct": false}
+{"id": 88, "question": "190 degrees Centigrade on an electric cooker, is equivalent to 'gas mark' what?", "truth": "5 (five)", "gpt3_answer": "gas mark 5", "correct": false}
+{"id": 89, "question": "What is the world's third largest desert?", "truth": "the gobi desert", "gpt3_answer": "sahara desert", "correct": false}
+{"id": 90, "question": "In what country is the religion of Shinto commonly practiced?", "truth": "japan", "gpt3_answer": "japan", "correct": true}
+{"id": 91, "question": "Yellow-pine, Uinta and Lodgepole are all types of which animal?", "truth": "chipmunk", "gpt3_answer": "squirrel", "correct": false}
+{"id": 92, "question": "Who was elected president of France follwing the death of President Pompidou?", "truth": "valery giscard d'estaing", "gpt3_answer": "valéry giscard d'estaing", "correct": false}
+{"id": 93, "question": "Gjetost is the national cheese of which country?", "truth": "norway", "gpt3_answer": "norway", "correct": true}
+{"id": 94, "question": "Which military powers fought the Punic Wars?", "truth": "rome and carthage", "gpt3_answer": "rome and carthage", "correct": true}
+{"id": 95, "question": "In computing, what started life at Stanford University as 'backrub'?", "truth": "google search engine", "gpt3_answer": "google", "correct": false}
+{"id": 96, "question": "In 1848, Mexico ratified the Treaty of Guadalupe Hidalgo, officially ceding what to the USA?", "truth": "land", "gpt3_answer": "california", "correct": false}
+{"id": 97, "question": "In humans, Duane Syndrome affects which part of the body?", "truth": "eye", "gpt3_answer": "eyes", "correct": false}
+{"id": 98, "question": "Which historically contested region did Russia annexe from Ukraine in February 2014?", "truth": "crimea", "gpt3_answer": "crimea", "correct": true}
+{"id": 99, "question": "Which British city is served by Eastleigh airport?", "truth": "southampton", "gpt3_answer": "southampton", "correct": true}
+{"accuracy": 0.46}

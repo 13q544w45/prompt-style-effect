@@ -1,0 +1,8 @@
+english: How are you?
+german: Wie geht es dir?
+
+english: I love music.
+german: Ich liebe Musik.
+
+englisb: This is a book.
+german: Das ist ein Buch.

@@ -1,0 +1,14 @@
+sentence: Kevin helped Joshua because he was running late.
+option1: Kevin
+option2: Joshua
+answer: 2
+
+sentence: The car didn't fit into the parking space because it was too small.
+option1: The car
+option2: The parking space
+answer: 2
+
+sentence: Sarah yelled at Emily because she was so frustrated.
+option1: Sarah
+option2: Emily
+answer: 1

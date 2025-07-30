@@ -1,0 +1,17 @@
+instruction: Determine the logical relationship between a premise and a hypothesis. Choose from: entailment, contradiction, or neutral.
+
+premise: A man inspects the uniform of a figure in some East Asian country.
+hypothesis: The man is sleeping.
+label: contradiction
+
+instruction: Determine the logical relationship between a premise and a hypothesis. Choose from: entailment, contradiction, or neutral.
+
+premise: An older and younger man smiling.
+hypothesis: Two men are smiling and laughing at the cats playing on the floor.
+label: neutral
+
+instruction: Determine the logical relationship between a premise and a hypothesis. Choose from: entailment, contradiction, or neutral.
+
+premise: A soccer game with multiple males playing.
+hypothesis: Some men are playing a sport.
+label: entailment

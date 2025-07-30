@@ -1,0 +1,20 @@
+instruction: Determine the logical relationship between a premise and a hypothesis. Choose from: entailment, contradiction, or neutral.
+
+premise: A man inspects the uniform of a figure in some East Asian country.
+hypothesis: The man is sleeping.
+First, the premise is about a man inspecting a uniform, which implies he is awake and engaged. The hypothesis says he is sleeping, which contradicts that. So, the answer is:
+label: contradiction
+
+instruction: Determine the logical relationship between a premise and a hypothesis. Choose from: entailment, contradiction, or neutral.
+
+premise: An older and younger man smiling.
+hypothesis: Two men are smiling and laughing at the cats playing on the floor.
+The premise only mentions smiling; the hypothesis adds laughing and playing cats. This is plausible but not guaranteed, so:
+label: neutral
+
+instruction: Determine the logical relationship between a premise and a hypothesis. Choose from: entailment, contradiction, or neutral.
+
+premise: A soccer game with multiple males playing.
+hypothesis: Some men are playing a sport.
+The hypothesis is a generalization of the premise, and it logically follows. Therefore:
+label: entailment

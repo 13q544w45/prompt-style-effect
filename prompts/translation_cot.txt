@@ -1,0 +1,14 @@
+instruction: Please translate the following English sentence into German.
+
+english: How are you?
+german: This is a common greeting in English. In German, the equivalent phrase to ask someone how they are doing is "Wie geht es dir?" The answer is: Wie geht es dir?
+
+instruction: Please translate the following English sentence into German.
+
+english: I love music.
+german: The English sentence expresses affection for music. In German, "I" is "Ich", "love" is "liebe", and "music" is "Musik". The sentence becomes: Ich liebe Musik. The answer is: Ich liebe Musik.
+
+instruction: Please translate the following English sentence into German.
+
+english: This is a book.
+german: "This is" in German is "Das ist", and "a book" is "ein Buch". So the full translation is: Das ist ein Buch. The answer is: Das ist ein Buch.

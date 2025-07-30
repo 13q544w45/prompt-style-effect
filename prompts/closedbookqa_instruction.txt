@@ -1,0 +1,14 @@
+Instruction: Answer the question based only on your general knowledge.
+
+Q: What is the capital of France?
+A: Paris
+
+Instruction: Answer the question using only facts you know.
+
+Q: Who wrote the play 'Hamlet'?
+A: William Shakespeare
+
+Instruction: Provide the correct answer based on general world knowledge.
+
+Q: What is the boiling point of water in Celsius?
+A: 100

@@ -1,0 +1,23 @@
+instruction: Choose which option the pronoun refers to.
+
+sentence: Kevin helped Joshua because he was running late.
+option1: Kevin
+option2: Joshua
+"He" was running late, and Kevin helped Joshua. So Joshua was the one running late.
+answer: 2
+
+instruction: Choose which option the pronoun refers to.
+
+sentence: The car didn't fit into the parking space because it was too small.
+option1: The car
+option2: The parking space
+"It" was too small. The car didn’t fit. That means the parking space was too small.
+answer: 2
+
+instruction: Choose which option the pronoun refers to.
+
+sentence: Sarah yelled at Emily because she was so frustrated.
+option1: Sarah
+option2: Emily
+"She" was frustrated and yelled. Usually the one yelling is the one who's upset.
+answer: 1

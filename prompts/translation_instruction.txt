@@ -1,0 +1,13 @@
+instruction: Please translate the following English sentence into German.
+
+english: How are you?
+german: Wie geht es dir?
+
+instruction: Please translate the following English sentence into German.
+
+english: I love music.
+german: Ich liebe Musik.
+
+instruction: Please translate the following English sentence into German.
+english: This is a book.
+german: Das ist ein Buch.
